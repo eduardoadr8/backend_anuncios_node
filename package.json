@@ -1,0 +1,22 @@
+{
+  "name": "backend_anuncios_node",
+  "version": "1.0.0",
+  "description": "- Este proyecto es el backend para anuncios clasificados\r ---\r ## Pasos para levantar el proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardoadr8/backend_anuncios_node.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/eduardoadr8/backend_anuncios_node/issues"
+  },
+  "homepage": "https://github.com/eduardoadr8/backend_anuncios_node#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
